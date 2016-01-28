@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'B&auml;rn'?></h1>
+        <h1>Hallo <?php echo 'B&auml;rn'?> Yeah!!!</h1>
         <p class="lead">OpenShift 3 Meetup Example Source To Image PHP</p>
       </div>
 
