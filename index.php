@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>OpenShift Meetup in Bern (28.1.2016)</title>
+    <title>OpenShift Demo in Bern (2.2.2016)</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">OpenShift Meetup 28.1.2016</a>
+          <a class="navbar-brand" href="#">OpenShift Demo 28.1.2016</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -53,8 +53,9 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'B&auml;rn'?> Yeah!!!</h1>
-        <p class="lead">OpenShift 3 Meetup Example Source To Image PHP</p>
+        <h1>Hallo <?php echo 'B&auml;rn'?></h1>
+        <p class="lead">OpenShift 3 Example Source To Image PHP</p>
+<iframe src='https://map.geo.admin.ch/embed.html?X=198927.30&Y=599395.30&zoom=13&lang=de&topic=swisstopo&bgLayer=ch.swisstopo.swissimage' width='600' height='450' frameborder='0' style='border:0'></iframe>
       </div>
 
     </div><!-- /.container -->
