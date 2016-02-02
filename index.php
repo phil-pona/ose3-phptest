@@ -53,7 +53,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Hallo <?php echo 'B&auml;rn'?></h1>
+        <h1>Hallo <?php echo 'swisstopo'?></h1>
         <p class="lead">OpenShift 3 Example Source To Image PHP</p>
 <iframe src='https://map.geo.admin.ch/embed.html?X=198927.30&Y=599395.30&zoom=13&lang=de&topic=swisstopo&bgLayer=ch.swisstopo.swissimage' width='600' height='450' frameborder='0' style='border:0'></iframe>
       </div>
